@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: #ffccd5;
+    background-color: #ffccd5; 
     text-align: center;
 }
 h1{
@@ -66,7 +66,7 @@ h1{
     }
     h1{
         font-size: xx-large;
-        margin-top: 50px;
+        margin-top: 100px;
     }
     .box{
         font-size: 40px;
